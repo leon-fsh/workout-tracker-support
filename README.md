@@ -4,6 +4,8 @@ For support, questions, bug reports, or privacy requests, contact:
 
 leon.fsh@outlook.com
 
+[Downloads](/downloads)
+
 ## Privacy Policy
 
 Last updated: July 10, 2026
